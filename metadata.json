@@ -1,0 +1,6 @@
+{
+  "name": "SIM Asistensi & Monitoring Ekspor UMKM",
+  "description": "Sistem Informasi Manajemen Master Data UMKM, Pencatatan Asistensi, Monitoring Metrik Ekspor, Kepatuhan Pelaporan Triwulanan Kanwil, dan Executive Dashboard Analitik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
